@@ -42,5 +42,7 @@ int main()
 
     printf("\nКоличество строк с необходимой длиной(%d) = %d", n, count);
 
+    fclose(file);
+
     return 0;
 }
