@@ -1,0 +1,10 @@
+The result of the fprintf 1
+The result of the fprintf 2
+The result of the fprintf 3
+The result of the fprintf 4
+The result of the fprintf 5
+The result of the fprintf 6
+The result of the fprintf 7
+The result of the fprintf 8
+The result of the fprintf 9
+The result of the fprintf 10
