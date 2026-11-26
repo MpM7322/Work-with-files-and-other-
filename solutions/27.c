@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define FILE_PATH "D:\\Programming\\solutions\\27.txt"
+#define FILE_PATH "D:\\Programming\\files\\27.txt"
 
 int main()
 {
