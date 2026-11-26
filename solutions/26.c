@@ -24,7 +24,7 @@ int main()
     while (n < MAX_SIZE && fscanf(file, "%d", &array[n]) == 1)
         n++;
 
-        fclose(file);
+    fclose(file);
         
         int max_index = 0, min_index = 0;
     for (int i = 1; i < n; i++) {
